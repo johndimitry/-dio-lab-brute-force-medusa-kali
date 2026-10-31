@@ -1,0 +1,1 @@
+echo -e "admin\nmsfadmin\nuser\njohndimitry" > wordlists/users.txt
